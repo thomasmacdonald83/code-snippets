@@ -1,0 +1,237 @@
+<style>
+.cb-ewe-comparison {
+    margin: 30px 0;
+}
+
+.cb-ewe-comparison h2 {
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.cb-ewe-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 20px;
+}
+
+.cb-ewe-card {
+    background: #fff;
+    border: 1px solid #003057	;
+    border-radius: 25px;
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(0,0,0,.05);
+}
+
+.cb-ewe-header {
+    background: #003057;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+
+.cb-protein {
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 1;
+}
+
+.cb-protein small {
+    display: block;
+    font-size: 14px;
+    font-weight: 400;
+    margin-top: 5px;
+}
+
+.cb-ewe-content {
+    padding: 20px;
+}
+
+.cb-ewe-section {
+    margin-bottom: 15px;
+}
+
+.cb-ewe-section:last-child {
+    margin-bottom: 0;
+}
+
+.cb-ewe-label {
+    display: block;
+    font-weight: 700;
+    color: #003057;
+    margin-bottom: 5px;
+}
+
+.cb-availability {
+    display: inline-block;
+    background: #af6d04;
+    padding: 6px 12px;
+    color: #ffffff;
+    border-radius: 4px;
+    font-weight: 600;
+}
+
+.cb-read-more {
+    display: inline-block;
+    margin-top: 15px;
+    color: #af6d04;
+    font-weight: 600;
+    text-decoration: none;
+    transition: all .2s ease;
+}
+
+.cb-read-more:hover {
+    color: #003057;
+    text-decoration: underline;
+}
+
+@media (min-width: 768px) {
+    .cb-ewe-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (min-width: 1200px) {
+    .cb-ewe-grid {
+        grid-template-columns: repeat(4, 1fr);
+    }
+}
+</style>
+
+<div class="cb-ewe-comparison">
+
+    <h2>Ewe Feed Comparison Guide</h2>
+
+    <div class="cb-ewe-grid">
+
+        <div class="cb-ewe-card">
+            <div class="cb-ewe-header">
+                <h3>Ewemax 19</h3>
+                <div class="cb-protein">
+                    19%
+                    <small>Protein</small>
+                </div>
+            </div>
+
+            <div class="cb-ewe-content">
+
+                <div class="cb-ewe-section">
+                    <span class="cb-ewe-label">Typical Use</span>
+                    High-performing prolific ewes
+                </div>
+
+                <div class="cb-ewe-section">
+                    <span class="cb-ewe-label">Key Benefits</span>
+                    Includes AminoMax rumen-protected (by-pass) protein (DUP) to promote milk production. Includes SafMannan to improve colostrum quality and lamb vigour.
+                </div>
+
+                <div class="cb-ewe-section">
+                    <span class="cb-ewe-label">Available In</span>
+                    <span class="cb-availability">Bulk Only</span>
+                </div>
+				<div class="cb-ewe-section">
+					<a href="/products/farming/sheep/feed/ewemax-19" class="cb-read-more">Read More &gt;</a>
+				</div>
+
+            </div>
+        </div>
+
+        <div class="cb-ewe-card">
+            <div class="cb-ewe-header">
+                <h3>Excel Ewe 18</h3>
+                <div class="cb-protein">
+                    18%
+                    <small>Protein</small>
+                </div>
+            </div>
+
+            <div class="cb-ewe-content">
+
+                <div class="cb-ewe-section">
+                    <span class="cb-ewe-label">Typical Use</span>
+                    Late pregnancy and prolific flocks
+                </div>
+
+                <div class="cb-ewe-section">
+                    <span class="cb-ewe-label">Key Benefits</span>
+                    Wheat, maize and sugar beet pulp for safe digestion to minimise acidosis risk. High by-pass protein (DUP) from AminoMax and Hi-Pro soya to maximise birth weights and support milk production.
+                </div>
+
+                <div class="cb-ewe-section">
+                    <span class="cb-ewe-label">Available In</span>
+                    <span class="cb-availability">25kg Bags &amp; Bulk</span>
+                </div>
+				<div class="cb-ewe-section">
+					<a href="/products/farming/sheep/feed/excel-ewe" class="cb-read-more">Read More &gt;</a>
+				</div>
+
+            </div>
+        </div>
+
+        <div class="cb-ewe-card">
+            <div class="cb-ewe-header">
+                <h3>Ewe-Lac Plus 18</h3>
+                <div class="cb-protein">
+                    18%
+                    <small>Protein</small>
+                </div>
+            </div>
+
+            <div class="cb-ewe-content">
+
+                <div class="cb-ewe-section">
+                    <span class="cb-ewe-label">Typical Use</span>
+                    General commercial flocks
+                </div>
+
+                <div class="cb-ewe-section">
+                    <span class="cb-ewe-label">Key Benefits</span>
+                    A high-quality, highly palatable ewe feed suitable for all breeds and systems. Includes AminoMax rumen-protected (by-pass) protein (DUP) to support milk production.
+                </div>
+
+                <div class="cb-ewe-section">
+                    <span class="cb-ewe-label">Available In</span>
+                    <span class="cb-availability">Bulk Only</span>
+                </div>
+				<div class="cb-ewe-section">
+					<a href="/products/farming/sheep/feed/ewe-lac-plus-18" class="cb-read-more">Read More &gt;</a>
+				</div>
+
+            </div>
+        </div>
+
+        <div class="cb-ewe-card">
+            <div class="cb-ewe-header">
+                <h3>Sovereign Ewe Nuts</h3>
+                <div class="cb-protein">
+                    16%
+                    <small>Protein</small>
+                </div>
+            </div>
+
+            <div class="cb-ewe-content">
+
+                <div class="cb-ewe-section">
+                    <span class="cb-ewe-label">Typical Use</span>
+                    Hill and store feeding situations
+                </div>
+
+                <div class="cb-ewe-section">
+                    <span class="cb-ewe-label">Key Benefits</span>
+                    Ideal for mid to late pregnancy and store feeding. Balanced energy supply from cereals, wheat feed and molasses.
+                </div>
+
+                <div class="cb-ewe-section">
+                    <span class="cb-ewe-label">Available In</span>
+                    <span class="cb-availability">Bulk Only</span>
+                </div>
+				<!--<div class="cb-ewe-section">
+					<a href="#" class="cb-read-more">Read More &gt;</a>
+				</div>-->
+
+            </div>
+        </div>
+
+    </div>
+
+</div>
